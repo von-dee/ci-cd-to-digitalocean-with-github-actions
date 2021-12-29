@@ -1,3 +1,5 @@
-#this is a test file to show how to deploy to digital ocean using github actions
-# Github actions is awesome
-# its a very good test file
+// #this is a test file to show how to deploy to digital ocean using github actions
+// # Github actions is awesome
+// # its a very good test file
+
+console.log("Hello Bro");
